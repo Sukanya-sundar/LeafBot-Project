@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [Suite]" parallel="classes">
+  <test thread-count="5" verbose="5" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="testcase.TC_005_MyLeadsPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="startReport"/>
+          <include name="stopReport"/>
+          <include name="runMyLeadsPage"/>
+          <include name="launchBrowser"/>
+          <include name="testDetails"/>
+        </methods>
+      </class> <!-- testcase.TC_005_MyLeadsPage -->
+      <class name="testcase.TC_006_ViewLeadPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="stopReport"/>
+          <include name="runViewLeadPage"/>
+          <include name="launchBrowser"/>
+          <include name="setup"/>
+          <include name="testDetails"/>
+        </methods>
+      </class> <!-- testcase.TC_006_ViewLeadPage -->
+      <class name="testcase.TC_002_CreateLeadPage">
+        <methods>
+          <include name="runCreateLead"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="startReport"/>
+          <include name="stopReport"/>
+          <include name="launchBrowser"/>
+          <include name="testDetails"/>
+        </methods>
+      </class> <!-- testcase.TC_002_CreateLeadPage -->
+      <class name="testcase.TC_004_MyHomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="runMyHomePage"/>
+          <include name="startReport"/>
+          <include name="stopReport"/>
+          <include name="setup"/>
+          <include name="launchBrowser"/>
+          <include name="testDetails"/>
+        </methods>
+      </class> <!-- testcase.TC_004_MyHomePage -->
+      <class name="testcase.TC_003_HomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="runHomePage"/>
+          <include name="stopReport"/>
+          <include name="setup"/>
+          <include name="launchBrowser"/>
+          <include name="testDetails"/>
+        </methods>
+      </class> <!-- testcase.TC_003_HomePage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

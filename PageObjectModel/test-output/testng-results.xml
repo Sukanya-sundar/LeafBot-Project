@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="10" total="22" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61847" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61847" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:58 IST">
+      <class name="testcase.TC_003_HomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="setup" is-config="true" duration-ms="0" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="testDetails" is-config="true" duration-ms="5" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="launchBrowser" is-config="true" duration-ms="9644" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runHomePage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="runHomePage" duration-ms="20361" started-at="2023-04-20T18:26:07 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="tearDown" is-config="true" duration-ms="564" started-at="2023-04-20T18:26:27 IST" finished-at="2023-04-20T18:26:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="launchBrowser" is-config="true" duration-ms="4855" started-at="2023-04-20T18:26:28 IST" finished-at="2023-04-20T18:26:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runHomePage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="runHomePage" duration-ms="16111" started-at="2023-04-20T18:26:33 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Princila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Edward]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_003_HomePage@b3d7190]" name="tearDown" is-config="true" duration-ms="431" started-at="2023-04-20T18:26:49 IST" finished-at="2023-04-20T18:26:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC_003_HomePage -->
+      <class name="testcase.TC_004_MyHomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="setup" is-config="true" duration-ms="0" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="testDetails" is-config="true" duration-ms="5" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="launchBrowser" is-config="true" duration-ms="9941" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runMyHomePage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="runMyHomePage" duration-ms="22911" started-at="2023-04-20T18:26:07 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMyHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="tearDown" is-config="true" duration-ms="511" started-at="2023-04-20T18:26:30 IST" finished-at="2023-04-20T18:26:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="launchBrowser" is-config="true" duration-ms="8884" started-at="2023-04-20T18:26:31 IST" finished-at="2023-04-20T18:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runMyHomePage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="runMyHomePage" duration-ms="17476" started-at="2023-04-20T18:26:40 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Princila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Edward]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMyHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_004_MyHomePage@5d11346a]" name="tearDown" is-config="true" duration-ms="395" started-at="2023-04-20T18:26:57 IST" finished-at="2023-04-20T18:26:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC_004_MyHomePage -->
+      <class name="testcase.TC_001_LoginPage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="startReport" is-config="true" duration-ms="319" started-at="2023-04-20T18:25:56 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="setup" is-config="true" duration-ms="0" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="testDetails" is-config="true" duration-ms="6" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="launchBrowser" is-config="true" duration-ms="9665" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="runLogin" duration-ms="2262" started-at="2023-04-20T18:26:07 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="tearDown" is-config="true" duration-ms="527" started-at="2023-04-20T18:26:09 IST" finished-at="2023-04-20T18:26:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="launchBrowser" is-config="true" duration-ms="6613" started-at="2023-04-20T18:26:10 IST" finished-at="2023-04-20T18:26:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runLogin(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="runLogin" duration-ms="1852" started-at="2023-04-20T18:26:16 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="tearDown" is-config="true" duration-ms="734" started-at="2023-04-20T18:26:18 IST" finished-at="2023-04-20T18:26:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="stopReport()[pri:0, instance:testcase.TC_001_LoginPage@5c18298f]" name="stopReport" is-config="true" duration-ms="422" started-at="2023-04-20T18:26:58 IST" finished-at="2023-04-20T18:26:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- testcase.TC_001_LoginPage -->
+      <class name="testcase.TC_002_CreateLeadPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="setup" is-config="true" duration-ms="1" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="testDetails" is-config="true" duration-ms="5" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="launchBrowser" is-config="true" duration-ms="9641" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="runCreateLead" duration-ms="21403" started-at="2023-04-20T18:26:07 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="tearDown" is-config="true" duration-ms="866" started-at="2023-04-20T18:26:28 IST" finished-at="2023-04-20T18:26:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="launchBrowser" is-config="true" duration-ms="6399" started-at="2023-04-20T18:26:29 IST" finished-at="2023-04-20T18:26:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="runCreateLead" duration-ms="17296" started-at="2023-04-20T18:26:36 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Princila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Edward]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_002_CreateLeadPage@7a36aefa]" name="tearDown" is-config="true" duration-ms="407" started-at="2023-04-20T18:26:53 IST" finished-at="2023-04-20T18:26:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC_002_CreateLeadPage -->
+      <class name="testcase.TC_005_MyLeadsPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="setup" is-config="true" duration-ms="0" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="testDetails" is-config="true" duration-ms="5" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="launchBrowser" is-config="true" duration-ms="9608" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runMyLeadsPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="runMyLeadsPage" duration-ms="22335" started-at="2023-04-20T18:26:07 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMyLeadsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="tearDown" is-config="true" duration-ms="705" started-at="2023-04-20T18:26:29 IST" finished-at="2023-04-20T18:26:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="launchBrowser" is-config="true" duration-ms="7359" started-at="2023-04-20T18:26:30 IST" finished-at="2023-04-20T18:26:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runMyLeadsPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="runMyLeadsPage" duration-ms="18630" started-at="2023-04-20T18:26:37 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Princila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Edward]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMyLeadsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_005_MyLeadsPage@17211155]" name="tearDown" is-config="true" duration-ms="304" started-at="2023-04-20T18:26:56 IST" finished-at="2023-04-20T18:26:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC_005_MyLeadsPage -->
+      <class name="testcase.TC_006_ViewLeadPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="setup" is-config="true" duration-ms="0" started-at="2023-04-20T18:25:57 IST" finished-at="2023-04-20T18:25:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDetails()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="testDetails" is-config="true" duration-ms="0" started-at="2023-04-20T18:26:19 IST" finished-at="2023-04-20T18:26:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="launchBrowser" is-config="true" duration-ms="3184" started-at="2023-04-20T18:26:19 IST" finished-at="2023-04-20T18:26:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runViewLeadPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="runViewLeadPage" duration-ms="10882" started-at="2023-04-20T18:26:22 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:33 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demosalesmanager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runViewLeadPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="tearDown" is-config="true" duration-ms="461" started-at="2023-04-20T18:26:33 IST" finished-at="2023-04-20T18:26:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="launchBrowser" is-config="true" duration-ms="8511" started-at="2023-04-20T18:26:34 IST" finished-at="2023-04-20T18:26:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="runViewLeadPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="runViewLeadPage" duration-ms="15845" started-at="2023-04-20T18:26:42 IST" data-provider="fetchData" finished-at="2023-04-20T18:26:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[democsr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Princila]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Edward]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runViewLeadPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_006_ViewLeadPage@5fdba6f9]" name="tearDown" is-config="true" duration-ms="412" started-at="2023-04-20T18:26:58 IST" finished-at="2023-04-20T18:26:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TC_006_ViewLeadPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
